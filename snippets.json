@@ -673,6 +673,7 @@
 			"md3": "@include media('>=tablet')",
 			"md4": "@include media('>=desktop')",
 			"md5": "@include media('>=widescreen')",
+			"mdm": "@include media('>=menucollapse')",
 
 			":a": "&:after",
 			":b": "&:before",
