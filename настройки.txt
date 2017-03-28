@@ -8,10 +8,13 @@ AutoFileName
 Emmet
 CSScomb
 
-sftp (для imp)
+sftp (Г¤Г«Гї imp)
 
 SublimeLinter
 --> CMD(admin) npm install -g csslint
 https://habrahabr.ru/post/262137/
 
 http://screen.w3.ua/Jan17/5490236.png
+
+address snipets
+C:\Users\anton.stetsenko\AppData\Roaming\Sublime Text 3\Installed Packages
