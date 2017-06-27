@@ -8,7 +8,7 @@ AutoFileName
 Emmet
 CSScomb
 
-sftp (äëÿ imp)
+sftp (php imp)
 
 SublimeLinter
 --> CMD(admin) npm install -g csslint
