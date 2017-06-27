@@ -1,4 +1,12 @@
 {
+    // If plugin has trouble finding Node.js, replace this string with path
+    // to your `node` bin
+    "node-path" : ":/usr/local/bin",
+
+    // Full list of supported options and acceptable values can be found here:
+    // https://github.com/csscomb/csscomb.js/blob/master/doc/options.md
+    "config": {
+        
      // Whether to add a semicolon after the last value/mixin.
         "always-semicolon": true,
 
@@ -82,6 +90,20 @@
                 "flex",
                 "align-self",
                 "order",
+                "grid-gap",
+                "grid-row-gap",
+                "grid-column-gap",
+                "grid-template-columns",
+                "grid-template-rows",
+                "grid-template-areas",
+                "grid-template",
+                "grid-row-start",
+                "grid-row-end",
+                "grid-row",
+                "grid-column-start",
+                "grid-column-end",
+                "grid-column",
+                "grid",
                 "visibility",
                 "opacity",
                 "float",
@@ -362,5 +384,6 @@
                 "pointer-events" 
             ], 
             [ "$include media" ]
-        ]
+        ]    
+     }
 }
