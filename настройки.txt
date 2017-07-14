@@ -7,6 +7,8 @@ scss
 AutoFileName
 Emmet
 CSScomb
+vue-syntax-highlight
+
 
 sftp (php imp)
 
